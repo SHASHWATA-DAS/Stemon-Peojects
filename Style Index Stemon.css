@@ -1,0 +1,25 @@
+h1, h2{
+    font-family: 'Merriweather', serif;
+     }
+
+
+h3, h4{
+    font-family: 'Roboto Slab', serif;
+     }
+     
+         
+h1{
+    margin-top: 40px; margin-bottom: 30px;
+    text-align: center;
+}
+
+
+table{
+    margin-left: 30px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
